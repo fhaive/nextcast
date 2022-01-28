@@ -1,0 +1,27 @@
+[submodule "tools/eUTOPIA"]
+	path = tools/eUTOPIA
+	url = https://github.com/Greco-Lab/eUTOPIA
+[submodule "tools/INfORM"]
+	path = tools/INfORM
+	url = https://github.com/Greco-Lab/INfORM
+[submodule "tools/VOLTA"]
+	path = tools/VOLTA
+	url = https://github.com/fhaive/VOLTA
+[submodule "tools/BMDx"]
+	path = tools/BMDx
+	url = https://github.com/Greco-Lab/BMDx
+[submodule "tools/tindermix"]
+	path = tools/tindermix
+	url = https://github.com/grecolab/tindermix
+[submodule "tools/FunMappOne"]
+	path = tools/FunMappOne
+	url = https://github.com/Greco-Lab/FunMappOne
+[submodule "tools/mvda_package"]
+	path = tools/mvda_package
+	url = https://github.com/Greco-Lab/mvda_package
+[submodule "tools/GARBO"]
+	path = tools/GARBO
+	url = https://github.com/Greco-Lab/GARBO
+[submodule "tools/MaNGA"]
+	path = tools/MaNGA
+	url = https://github.com/Greco-Lab/MaNGA/
