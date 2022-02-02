@@ -2,6 +2,11 @@
 
 Nextcast is a collection of tools for the analysis of toxicogenomics and cheminformatics data developed at FHAIVE (https://www.fhaive.fi/).
 
+## How to clone the repository
+
+```git clone --recurse-submodules git@github.com:fhaive/nextcast.git```
+
+
 ## Tool descriptions
 
 |**eUTOPIA**| |
